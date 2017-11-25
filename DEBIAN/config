@@ -1,0 +1,6 @@
+#!/bin/bash
+. /usr/share/debconf/confmodule
+db_input critical wanparty-base/departement || true
+db_go
+#db_get wan-vpn/departement
+

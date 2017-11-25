@@ -1,0 +1,10 @@
+Source: wanparty-base
+Section: unknown
+Priority: extra
+Maintainer: Sohaib Lafifi <sohaib.lafifi@univ-artois.fr>
+Homepage: wanparty.neticien.net
+Package: wanparty-base
+Version: 1.9.5
+Architecture: all
+Depends: sudo, ldap-utils, vim, file, telnet, netcat-openbsd, htop, tmux, pv, curl, tree, openssh-server, less, pciutils, manpages-fr, manpages-fr-dev, manpages-fr-extra
+Description: Configuration du departement utilisé par les autres packages

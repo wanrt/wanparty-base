@@ -1,0 +1,6 @@
+Template: wanparty-base/departement
+type: select
+Choices: 06, 13, 14, 17, 25, 26, 31, 34, 35, 38, 40, 41, 42, 51, 62, 63, 68, 85, 86, 89, 94, 201, 202
+Default: 62
+Description: Choissez le numero de votre département
+
